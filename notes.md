@@ -24,13 +24,6 @@
 
 
 ## Regras
-- Cadastro de usuario
-  - Nao e permitido cadastrar mais de um user com o mesmo email
-  - Nao e permitido cadastrar usuario sem email
-- Cadastro de tag
-  - Nao e permitido cadastrar mais de uma tag com o mesmo nome 
-  - Nao e permitido cadastrar tag sem nome
-  - Nao e permitido cadastrar tag sem ser admin
 - Cadastro de elogios
   - Nao e permitido um usuario cadastrar um elogio para si mesmo
   - Nao e permitido cadastrar elogios para usuarios invalidos
